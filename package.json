@@ -1,0 +1,23 @@
+{
+  "name": "marsrover-1",
+  "version": "1.0.0",
+  "description": "Mars Rover Test",
+  "main": "index.js",
+  "scripts": {
+    "rover": "node index.js input.txt",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabelaAC/marsRover.git"
+  },
+  "author": "Isabela Assis Cardoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsabelaAC/marsRover/issues"
+  },
+  "homepage": "https://github.com/IsabelaAC/marsRover#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
