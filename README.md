@@ -6,7 +6,7 @@
       Projeto finalizado :white_check_mark:
 </h4>
   
- ## Descrição do projeto
+ ## :pencil2: Descrição do projeto
 
 O projeto consiste em um Rover que se encontra em Marte, e deve mover-se e virar-se nos quatro pontos cardeais. 
 
