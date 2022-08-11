@@ -46,8 +46,4 @@ module.exports = class Mars {
         });
 
     }
-
-
-
-
 }
