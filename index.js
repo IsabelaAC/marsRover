@@ -4,7 +4,6 @@ const Mars = require('./components/mars')
 const Rover = require('./components/rover')
 
 // Validando comando de entrada 
-
 if (process.argv.length != 3) { 
     console.error("Must supply input argument")
     process.exit(1);
@@ -32,7 +31,6 @@ mars.start();
 function gridSize(command){
     let gridArray = command.split(" ");
     return [parseInt(gridArray[0]),parseInt(gridArray[1])] 
-
 }
 
 function roverPosition(command){
