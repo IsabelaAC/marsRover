@@ -34,7 +34,7 @@ module.exports = class Rover {
     }
 
     runMission() {
-      for (var i = 0; i < this.path.length; i++) {
+      for (let i = 0; i < this.path.length; i++) {
         let command = this.path[i];
         if (command == "M") {
           this.moveForward(command);
@@ -55,7 +55,7 @@ module.exports = class Rover {
     }
 
     turn(command) {
-      var cardinalIndex = this.directions.indexOf(this.facing);
+      let cardinalIndex = this.directions.indexOf(this.facing);
       if (command == "L") {
         cardinalIndex = (cardinalIndex + 4 - 1) % 4;
       } else if (command == "R") {
