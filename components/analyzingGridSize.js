@@ -1,5 +1,5 @@
 function gridSize(command) {
-    var gridArray = command.split(" ");
+    let gridArray = command.split(" ");
 
     return[parseInt(gridArray[0]), parseInt(gridArray[1])]
 }
