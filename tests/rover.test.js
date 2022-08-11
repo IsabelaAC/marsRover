@@ -4,7 +4,6 @@ test('testing if the rover turn to the left', () => {
     let rover = new Rover ("rover1", 1, 1, "N")
     rover.turn("L")
     expect(rover.facing).toEqual("W")
-
 }) 
 
 test('testing if the rover turn to the right', () => {
