@@ -1,6 +1,5 @@
 const {roverPosition, gridSize} = require("../components/analyzingGridSize")
 
-
 test('testing if the roverPositions returns array of position', () => {
     expect(roverPosition("1 2 N")).toEqual([1, 2, "N"])
 });
