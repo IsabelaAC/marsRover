@@ -11,6 +11,7 @@ function roverPosition(command){
     return[parseInt(parse[0]), parseInt(parse[1]), parse[2]]
 }
 
+
 module.exports = {
     roverPosition,
     gridSize
