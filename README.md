@@ -37,6 +37,6 @@ Após a clonagem do repositório instalar o node.js e executar a aplicação loc
  
  [<img src="https://avatars.githubusercontent.com/u/66324902?v=4" width=115><br><sub>Isabela Assis Cardoso</sub>](https://github.com/IsabelaAC) 
  
- [<img src="https://avatars.githubusercontent.com/u/59314133?v=4" width=115><br><sub>Aline Lombardi Fernandes</sub>](https://github.com/alinelombardi)
+ 
   
   
